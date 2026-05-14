@@ -107,7 +107,7 @@ python password_analyser.py
 then ```text winpty ``` is not needed. However, if the program displays the input prompt but does not continue after typing a password, use the ```text winpty ``` command.
 
 ## Example Output
-```bash
+```text
 ============================================================
 Password Strength Analyser and Breach Detector
 ============================================================
@@ -166,3 +166,6 @@ Possible improvements include:
 
 ## Disclaimer
 This project is for educational and defensive security purposes only. Do not use it to collect, store, or test other people’s passwords.
+
+##Author 
+brindatenn
