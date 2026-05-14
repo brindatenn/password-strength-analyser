@@ -104,7 +104,7 @@ If this works for you:
 ```bash
 python password_analyser.py
 ```
-then ```text winpty ``` is not needed. However, if the program displays the input prompt but does not continue after typing a password, use the ```text winpty ``` command.
+then ``` winpty ``` is not needed. However, if the program displays the input prompt but does not continue after typing a password, use the ``` winpty ``` command.
 
 ## Example Output
 ```text
@@ -156,7 +156,7 @@ The breach detection depends on the HaveIBeenPwned database. If a password has n
 
 ## Future Improvements
 Possible improvements include:
-- Adding command-line arguments with ```text argparse ```
+- Adding command-line arguments with ``` argparse ```
 - Adding JSON output for automation
 - Adding unit tests
 - Adding a password generator
