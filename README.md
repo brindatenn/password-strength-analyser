@@ -167,5 +167,5 @@ Possible improvements include:
 ## Disclaimer
 This project is for educational and defensive security purposes only. Do not use it to collect, store, or test other people’s passwords.
 
-##Author 
+## Author 
 brindatenn
